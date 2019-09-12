@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb38757d6f594fd6ad085b86fcc99f6, type: 3}
+  m_Name: PA_L1
+  m_EditorClassIdentifier: 
+  energyCost: 20
+  particlePrefab: {fileID: 5529948402009919516, guid: ece4d97ca2f894e92888bc35d2a50abf,
+    type: 3}
+  audioClips:
+  - {fileID: 8300000, guid: 4ab526069f5154b17a0a183567d6ee8b, type: 3}
+  extraDamage: 20
