@@ -1,11 +1,11 @@
-﻿Milestone of the Combat Projet
-
-
-List of What I learned:
-1. Navigation control
-2. AI control <some kind of componments>
+Light The Fire: Action-role player game
+- Designed and Built a playable environment, set navigation system both on players and enemies.
+- Created a series of enemy types, set different attack modes and bonded animations to them.
+- Made different weapons and attack patterns, created special abilities with VFX for the player, also added corresponding animations. 
 
 ----------------------------------------------
+
+Milestone of the Combat Projet
 
 // 2.1.2019
 1. Trying Navigtion system and make enemies pathfind to player.
