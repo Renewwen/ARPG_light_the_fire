@@ -1,4 +1,5 @@
 Light The Fire: Action-role player game
+
 - Designed and Built a playable environment, set navigation system both on players and enemies.
 - Created a series of enemy types, set different attack modes and bonded animations to them.
 - Made different weapons and attack patterns, created special abilities with VFX for the player, also added corresponding animations. 
